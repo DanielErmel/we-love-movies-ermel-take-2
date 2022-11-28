@@ -2,7 +2,7 @@ WeLoveMovies
 Backend Capstone for Thinkful
 
 Links
-Deployed App: https://starter-movie-front-end-mbash0023.vercel.app/
+Deployed App:
 
 
 Tasks:
